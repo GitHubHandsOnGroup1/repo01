@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+addmaster
+=======
+shanshewy7confricttest
+>>>>>>> confrict test
